@@ -1,0 +1,55 @@
+body{
+    background-color: rebeccapurple;
+      
+    
+}
+.mainCointainer{
+      text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    background-color: aliceblue;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-top: 160px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px 10px black;
+    
+}
+.btn-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn{
+    width: 120px;
+    height: 80px;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: black;
+}
+    
+
+
